@@ -4,6 +4,8 @@ __pycache__/
 
 # ok 评分程序的本地状态文件
 .ok_history
+.ok_messages
+.ok_storage
 
 # 操作系统
 .DS_Store
